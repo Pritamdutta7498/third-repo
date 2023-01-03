@@ -1,3 +1,24 @@
 h1{
     color: aquamarine
 }
+.btn{
+    margin-top: 10px;
+    background-color: #09d586;
+    padding: 10px 15px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.btn:hover{
+    margin-top: 10px;
+    background-color: #0ccdef;
+    padding: 10px 15px;
+    border-radius: 30px;
+}
+
+
+
+
+
+
+
+
